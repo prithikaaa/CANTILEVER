@@ -1,0 +1,18 @@
+ .grocery
+{
+    background-image: url("../../assets/food.png");   
+    height:80vh; 
+    width: 88%;
+    margin-left: 6%;
+}
+.shop { 
+  
+    cursor: pointer;
+    padding: 10px 10px;
+    border-radius: 10px;
+    margin: 0;
+    position: absolute;
+    top: 55%;
+    left:70%;
+
+  }

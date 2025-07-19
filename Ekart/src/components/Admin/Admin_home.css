@@ -1,0 +1,65 @@
+
+/* MENU */
+
+.menu_list{
+  align-items: center;
+  padding-left: 8rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  font-size: 20px;
+ 
+}
+.menu_heading{
+    font-weight: 500;
+    font-size: 22px;
+}
+dd{
+    padding-bottom: 15px;
+}
+
+/* CATEGORY */ 
+.category_menu{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    align-items: center;
+    
+}
+.category_heading {
+  
+    font-weight: 500;
+    font-size: 22px;
+}
+.add_category{
+    color: white;
+    border: none;
+    background-color: black;
+    border-radius: 5px;
+    padding: 8px;
+}
+.add_category:hover{
+    background-color:rgb(70, 65, 65);
+    font-size: 17px;
+}
+
+/* TABLE */
+table{
+    margin-top: 15px;
+    
+}
+tr{
+   padding-bottom: 25px;
+   
+}
+th,td{
+    padding-right: 4.5rem;
+    padding-left: 4.5rem;
+    
+}
+.admin_link{
+    text-decoration: none;
+    color: black;
+}
+.admin_link:hover{
+    color: #bd965b
+  
+}

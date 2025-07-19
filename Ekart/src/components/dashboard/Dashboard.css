@@ -1,0 +1,67 @@
+/* CROUSEL */
+.sliderimg{
+    width: 100%;
+    height: 500px;
+    object-fit: cover
+  }
+  .carousel{
+    margin: 5px 5px;
+  }
+/* INFO BOX */
+ .info-box{
+   padding-top: 15px;
+   padding-bottom: 15px;
+   display: flex;
+   align-items: center;
+   position: relative;
+ }
+ .block{
+   font-size: 40px;
+   padding-right: 20px;
+   padding-left: 20px;
+   margin-bottom: 20px;
+ }
+   /* {BANNER CONTENT} */
+.image:hover{
+       opacity: 0.7;
+       /* width: 500px;
+       height: 250px;    */
+}
+.center-image:hover{
+     opacity: 0.7;
+     /* width: 800px;
+     height: 510px; */
+}
+.small-container{
+    position: relative;
+}
+.textPosition{
+  transition: .5s ease;
+  position: absolute;
+  top: 10%;
+  left: 40%;
+}
+.content{
+  color: white;
+  font-size: 20px;
+  font-weight: 700;
+  font-style: oblique;
+}
+.small-content{
+  color: white;
+  font-size: 20px;
+  font-weight: 350;
+  font-style: oblique;
+}
+.buy-btn{
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  border: 2px solid rgb(56, 55, 55);
+  padding: 4px;
+
+}
+.buy-btn:hover{
+  background-color: rgb(56, 55, 55);
+  opacity: 0.9;
+}
